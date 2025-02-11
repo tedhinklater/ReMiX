@@ -1,8 +1,9 @@
 # ReMiX
-Fullscreen Theme - v1.2
 
-![Main](https://github.com/zeroantix/ReMiX/assets/97025763/d8ee1bb4-25bc-4205-a232-f08c893586bd)
+![Screenshot 2025-02-11 194656](https://github.com/user-attachments/assets/854bfa1d-4a73-4790-8c65-84b464a72b4a)
+![Screenshot 2025-02-11 193850](https://github.com/user-attachments/assets/0c74e444-1a1f-48fd-9ec9-6afd7502ff19)
+![Screenshot 2025-02-11 194054](https://github.com/user-attachments/assets/318efd15-ea92-4808-9491-c5702d4df2e6)
 
-![Grid View](https://github.com/zeroantix/ReMiX/assets/97025763/88b00b1e-27d1-4975-8743-bf5db4192fed)
+icons provided for Quick Filters (along the bottom), filters are named:
 
-![GameDeatils](https://github.com/zeroantix/ReMiX/assets/97025763/6bfb6347-77f9-4fbd-8af3-cf33db30ebf1)
+![Screenshot 2025-02-11 194837](https://github.com/user-attachments/assets/8c76d498-3683-4ed2-9c40-86a1089744a4)
