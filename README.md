@@ -1,9 +1,9 @@
 # ReMiX
 
-![Screenshot 2025-02-11 194656](https://github.com/user-attachments/assets/854bfa1d-4a73-4790-8c65-84b464a72b4a)
-![Screenshot 2025-02-11 193850](https://github.com/user-attachments/assets/0c74e444-1a1f-48fd-9ec9-6afd7502ff19)
-![Screenshot 2025-02-11 194054](https://github.com/user-attachments/assets/318efd15-ea92-4808-9491-c5702d4df2e6)
+![Screenshot 2025-02-16 194323](https://github.com/user-attachments/assets/841719d2-b5da-4fe1-89ac-7ce51b8c8cba)
+![Screenshot 2025-02-16 194334](https://github.com/user-attachments/assets/13bdf9c7-f73b-49e4-8309-ee1d4541169e)
+![Screenshot 2025-02-16 194248](https://github.com/user-attachments/assets/f1f95296-11ec-43d8-aff0-7bc575817798)
 
-icons provided for Quick Filters (along the bottom), filters are named:
+icons provided in the theme for Quick Filters (along the bottom), filters are named:
 
-![Screenshot 2025-02-11 194837](https://github.com/user-attachments/assets/8c76d498-3683-4ed2-9c40-86a1089744a4)
+![Screenshot 2025-02-16 194713](https://github.com/user-attachments/assets/16dcccea-18bb-434a-95c9-90c71e40f288)
